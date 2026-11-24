@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi I'm o-OG-o
 
 <!--
-**o-OG-o/o-OG-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Second-Year B.Sc.
+Student in Software Engineering at SCE. 
+##I'm interested in:
+Cybersecurity and security research
+##I’m currently learning:
+- Assembly x86-64
+- Python
+- security tools sach as:
+    - Nmap
+    - Wireshark
+    - kali Linux
+##Projects:
+- Luna Park - C++ Hackaton Project.
+##Contact:
+Linkedin: https://www.linkedin.com/in/omer-golan-757a85166/
 -->
